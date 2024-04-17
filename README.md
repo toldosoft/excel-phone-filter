@@ -26,9 +26,8 @@ This Python script filters out specific phone numbers from an Excel spreadsheet 
 ## Usage
 - Execute the script to filter the phone numbers and generate a new Excel file:
   ```bash
-  python script_name.py
+  python app.py
   ```
-  Replace `script_name.py` with the actual name of your script.
 
 ## Output
 - The result will be saved in a file named `resul.xlsx` in the same directory, with the specified phone numbers removed from the `phone` column.
